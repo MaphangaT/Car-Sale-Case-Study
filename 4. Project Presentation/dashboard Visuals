@@ -1,0 +1,82 @@
+Objective: https://carsalesdash-3tjwrwvv.manus.space/ (Live-Dash Board) 
+Provide a clear overview of sales performance, trends, and business insights to help leadership make data-driven decisions.
+
+Dataset Fields (assume typical structure):
+
+* SaleDate
+* Car_Model
+* Brand
+* SellingPrice
+* Quantity
+* Revenue
+* Customer_ID
+* Region / Province
+* Dealer / Store
+* Payment_Method
+
+Dashboard Requirements:
+
+1. KPI Section (Top Panel)
+
+* Total Revenue
+* Total Units Sold
+* Average Selling Price
+* Total Orders
+* Month-over-Month Growth %
+
+2. Sales Trends
+
+* Line chart showing Revenue over time (monthly or daily)
+* Highlight peak and low sales periods
+
+3. Product Performance
+
+* Bar chart of Top-Selling Car Models (by revenue or units)
+* Brand performance comparison
+
+4. Regional Performance
+
+* Map or bar chart showing sales by Province/Region
+* Identify best and worst-performing regions
+
+5. Customer Insights
+
+* Distribution of purchases (new vs repeat if available)
+* Average spend per customer
+
+6. Pricing Analysis
+
+* Price range distribution (histogram or grouped bar)
+* Relationship between price and quantity sold
+
+7. Dealer Performance
+
+* Top-performing dealerships
+* Sales contribution per dealer
+
+8. Filters / Slicers
+
+* Date range
+* Brand
+* Car Model
+* Region
+* Dealer
+
+9. Insights Panel
+
+* Auto-generated key insights (e.g., “Sales peak in December”)
+* Highlight anomalies or trends
+
+Design Guidelines:
+
+* Clean, modern layout (executive style)
+* Use consistent color scheme (e.g., blue/grey business theme)
+* Avoid clutter—focus on key visuals
+* Use tooltips for deeper insights
+* Ensure interactivity across all visuals
+
+Output:
+
+* Fully structured dashboard layout
+* Suggested visual types for each section
+* Clear labeling and titles
