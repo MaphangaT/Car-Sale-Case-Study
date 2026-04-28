@@ -41,7 +41,7 @@ The dashboard is designed with an executive focus, providing both high-level KPI
 
 ---
 
-### 🚘 Product Performance
+### Product Performance
 
 * Top-selling car models by revenue and quantity
 * Brand-level comparison
