@@ -1,8 +1,9 @@
-# Car-Sale-Case-Study
-
 # Car Sales Dashboard – Project Overview
 
 ##  Project Description
+
+Dashboard Link
+(https://carsalesdash-refn5trh.manus.space/)
 
 This project presents a comprehensive analysis of car sales performance using an interactive dashboard.
 The goal is to provide clear, data-driven insights into sales trends, product performance, and regional distribution to support executive decision-making.
@@ -128,6 +129,3 @@ The dashboard is designed with an executive focus, providing both high-level KPI
 This dashboard provides a clear, actionable view of car sales performance, enabling stakeholders to make informed strategic decisions and identify growth opportunities.
 
 ---
-
-## Dashboard Link
-(https://carsalesdash-refn5trh.manus.space/)
